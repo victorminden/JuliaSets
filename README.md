@@ -29,4 +29,6 @@ R(z) = z.^2 - 0.4 + 0.6im;
 A = JuliaSetEval(R,x,y,n_iter,escape_tol);
 ```
 
-It is interesting to visualize the output with, for example, the ``imshow`` function in *PyPlot*.
+It is interesting to visualize the output with, for example, the ``imshow`` function in *PyPlot*.  The above example  with ``imshow(A)`` gives
+
+![alt text](https://github.com/victorminden/JuliaSets/raw/master/juliaset.png "An example fractal pattern")
