@@ -27,6 +27,6 @@ escape_tol = 100;
 R(z) = z.^2 - 0.4 + 0.6im;
 
 A = JuliaSetEval(R,x,y,n_iter,escape_tol);
-'''
+```
 
 It is interesting to visualize the output with, for example, the ``imshow`` function in *PyPlot*.
