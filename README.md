@@ -1,6 +1,6 @@
 # JuliaSets -- A Julia package for fractals through iterated function application
 
-The *JuliaSets* packages provides a simple function, ``JuliaSetEval``, for constructing an array that can be used to visualize Julia sets.
+The *JuliaSets* package provides a simple function, ``JuliaSetEval``, for constructing an array that can be used to visualize Julia sets.
 
 The function takes the inputs:
 
